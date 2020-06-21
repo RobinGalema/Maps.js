@@ -132,9 +132,12 @@ fetchJSONFile("data.json", function (data)
 
 The folder example contains an example of Map.js being used to generate a map in an empty div.
 This example can be simply downloaded and opened or ran with a live-server.
+
+Follow the link below to see how the module was used to create an Application to show Start-ups in the area around Eindhoven.
+http://i416153.hera.fhict.nl/
   
 ## Contributors
 **Robin Galema** https://github.com/RobinGalema
-
+ s 
 With the help of 
 **Thomas Dwarshuis** https://github.com/ThomasHBOICT
